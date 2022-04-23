@@ -1,4 +1,4 @@
 resolusi untuk kode
 
--konsisten untuk membelajarkan javaScript
 -Kosisten untuk berolahraga
+-kolaborasi dengan sesama programmer
