@@ -1,5 +1,6 @@
 -Saya ingin belajar reactJs
   -belajar dari wpu
   -belajar dari hackerrank
+  -belajar framework vue
 -Saya ingin belajar NodeJs
 -Saya ingin belajar Php
