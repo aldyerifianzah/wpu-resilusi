@@ -1,2 +1,4 @@
 -Saya ingin belajar reactJs
+  -belajar dari wpu
+  -belajar dari hackerrank
 -Saya ingin belajar NodeJs
